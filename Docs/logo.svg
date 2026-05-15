@@ -1,0 +1,78 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#0F172A"/>
+
+  <!-- PDF document -->
+  <g transform="translate(52 146)">
+    <rect width="140" height="180" rx="18" fill="#DC2626"/>
+
+    <!-- Fold -->
+    <path d="M100 0 L140 40 H100 Z" fill="#FCA5A5"/>
+
+    <!-- PDF text -->
+    <text x="70"
+          y="108"
+          text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="42"
+          font-weight="700"
+          fill="white">
+      PDF
+    </text>
+  </g>
+
+  <!-- Center Arrow -->
+  <g transform="translate(216 256)">
+    <line x1="0" y1="0" x2="70" y2="0"
+          stroke="#E2E8F0"
+          stroke-width="18"
+          stroke-linecap="round"/>
+
+    <path d="M48 -26 L84 0 L48 26"
+          stroke="#38BDF8"
+          stroke-width="18"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          fill="none"/>
+  </g>
+
+  <!-- Excel document -->
+  <g transform="translate(325 146)">
+    <rect width="140" height="180" rx="18" fill="#15803D"/>
+
+    <!-- Fold -->
+    <path d="M100 0 L140 40 H100 Z" fill="#86EFAC"/>
+
+    <!-- Excel X -->
+    <path d="M45 60 L95 120"
+          stroke="white"
+          stroke-width="18"
+          stroke-linecap="round"/>
+
+    <path d="M95 60 L45 120"
+          stroke="white"
+          stroke-width="18"
+          stroke-linecap="round"/>
+
+    <!-- Grid -->
+    <line x1="35" y1="142" x2="105" y2="142"
+          stroke="#BBF7D0"
+          stroke-width="6"
+          stroke-linecap="round"/>
+
+    <line x1="35" y1="160" x2="105" y2="160"
+          stroke="#BBF7D0"
+          stroke-width="6"
+          stroke-linecap="round"/>
+
+    <line x1="58" y1="132" x2="58" y2="170"
+          stroke="#BBF7D0"
+          stroke-width="5"/>
+
+    <line x1="82" y1="132" x2="82" y2="170"
+          stroke="#BBF7D0"
+          stroke-width="5"/>
+  </g>
+
+</svg>
